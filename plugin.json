@@ -1,0 +1,12 @@
+{
+    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword":"who",
+    "Name":"Who Is",
+    "Description":"Find host by IP or DNS name",
+    "Author":"Rando",
+    "Version":"1.2",
+    "Language":"python",
+    "Website":"https://github.com/Rand-o/",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
